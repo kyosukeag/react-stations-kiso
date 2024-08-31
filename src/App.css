@@ -1,0 +1,12 @@
+.body {
+  background-color: #dfdfdf;
+  margin: 25px;
+  width: 700px;
+  height: 400px;
+}
+.title {
+  color: black;
+}
+.list {
+  color: black;
+}
